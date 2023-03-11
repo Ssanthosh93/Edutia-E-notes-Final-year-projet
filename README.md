@@ -11,7 +11,7 @@
 
 <br><br>
 
-### :pen: :pencil: ETUDIA is small platform that aims at making the studies of KTU 1st year students easy :books: :clipboard:
+### :pen: :pencil: ETUDIA is small platform that aims at making the studies of Kalaingar Karunanithi Arts and science College- Tiruvannamalai M.sc Finalyear students easy :books: :clipboard:
 
 <br>
 
